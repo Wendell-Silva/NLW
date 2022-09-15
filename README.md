@@ -1,12 +1,12 @@
 # NLW eSports - Trilha Explorer
 
-![preview](./.github/preview)
+![preview.png](./.github/preview.png)
 
-Projeto consruído do evento Next Level Week da Rockeseat
+Projeto construído do evento Next Level Week da Rockeseat
 
-[Clique aqui para acessar](https://wendell-silva.github.io/nlw=esports-explorer)
+[Clique aqui para acessar](https://wendell-silva.github.io/NLW-eSports-explorer)
 
-## ecnologias uilizadas
+## Tecnologias utilizadas
 
 - HTML
 - CSS
